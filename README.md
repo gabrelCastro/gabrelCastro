@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Gabriel!
-- 👀 I’m interested in BackEnd Projects and DataScience
-- 🌱 I’m currently learning Python
+- 👋 Oi, eu sou Gabriel!
 
-<!---
-Ferreira327/Ferreira327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:computer: MEU SITE -> gabrielferreiradecastro.com.br
+
+:boom: HABILIDADES: <p style="margin-left:50px;">> 📋 BACK-END: JAVASCRIPT - EXPRESS,SEQUELIZE(ORM)</p>
+<p style="margin-left:50px;">> 🎨 FRONT-END: HTML,CSS e JavaScript</p>
+<p style="margin-left:50px;">> 🎨📋 FULLSTACK: LARAVEL (FRAMEWORK PHP)</p>
+<p style="margin-left:50px;">> 🎲 BANCO DE DADOS: MYSQL, SQLITE</p>
+<p style="margin-left:50px;">> 📉 ANÁLISE DE DADOS: PYTHON,PANDAS,MATPLOTLIB</p>
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,express,html,laravel,mysql,php,css,cpp,git	)](https://skillicons.dev)
