@@ -3,10 +3,10 @@
 :computer: MEU SITE -> gabrielferreiradecastro.com.br
 
 :boom: HABILIDADES: <p style="margin-left:50px;">> 📋 BACK-END: JAVASCRIPT - EXPRESS,SEQUELIZE(ORM)</p>
-<p style="margin-left:50px;">> 🎨 FRONT-END: HTML,CSS e JavaScript</p>
-<p style="margin-left:50px;">> 🎨📋 FULLSTACK: LARAVEL (FRAMEWORK PHP)</p>
-<p style="margin-left:50px;">> 🎲 BANCO DE DADOS: MYSQL, SQLITE</p>
-<p style="margin-left:50px;">> 📉 ANÁLISE DE DADOS: PYTHON,PANDAS,MATPLOTLIB</p>
+- <p style="margin-left:50px;">> 🎨 FRONT-END: HTML,CSS e JavaScript</p>
+- <p style="margin-left:50px;">> 🎨📋 FULLSTACK: LARAVEL (FRAMEWORK PHP)</p>
+- <p style="margin-left:50px;">> 🎲 BANCO DE DADOS: MYSQL, SQLITE</p>
+- <p style="margin-left:50px;">> 📉 ANÁLISE DE DADOS: PYTHON,PANDAS,MATPLOTLIB</p>
 
 <br>
 
