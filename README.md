@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou Gabriel!
 
-:computer: MEU SITE -> gabrielferreiradecastro.com.br
+:computer: MEU SITE -> gabrel.tech
 
 :boom: HABILIDADES: 
 - <p style="margin-left:50px;"> 📋 BACK-END: JAVASCRIPT - EXPRESS,SEQUELIZE(ORM)</p>
